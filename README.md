@@ -1,4 +1,4 @@
-CERN_Simulation
+BETA_LHC_SIMULATOR
 ===============
 
 An ultra-basic Large Hadron Collider (LHC) simulator written in C. Created by Carlos Ciller on Oct-2012.
