@@ -1,10 +1,10 @@
 //==============================================================================//
-//  Filename: main.c															//
-//																				//
-//  Test - Application for job TE-EPC-CC-2012-154-LD @CERN.						//
+//  Filename: main.c								//
+//										//
+//  Test - Application for @CERN.						//
 //==============================================================================//
 //																				//
-//  Created by Carlos Ciller on Oct 12, 2012.									//
+//  Created by Carlos Ciller on Oct 12, 2012.                                   //
 //  Copyright (c) 2012 -. All rights reserved.									//
 //  Description : Written in C, Ansi-style.										//
 //------------------------------------------------------------------------------//
@@ -31,10 +31,10 @@
 //																				//
 //	VARIABLES:																	//
 //  ----------																	//
-//	á LHC Circumference: 26.659m												//
-//	á # of Magnets: 9300 magnets. Pre-cooled at -193.2¼C(80k)					//
-//	á Speed at 7 TeV: 299792455.30 m/s (speed of light 299792458.00 m/s)		//
-//  á Proton Mass: 1.67262158e-27 (kg) at 0 m/s. 1.24786320961875e-23 at highest//
+//	ï¿½ LHC Circumference: 26.659m												//
+//	ï¿½ # of Magnets: 9300 magnets. Pre-cooled at -193.2ï¿½C(80k)					//
+//	ï¿½ Speed at 7 TeV: 299792455.30 m/s (speed of light 299792458.00 m/s)		//
+//  ï¿½ Proton Mass: 1.67262158e-27 (kg) at 0 m/s. 1.24786320961875e-23 at highest//
 //  speed. There is a variation of 7460.523196 proton's original mass.			//
 //																				//
 //	ASSUMPTIONS:																//
