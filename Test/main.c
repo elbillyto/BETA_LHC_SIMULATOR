@@ -26,7 +26,7 @@
 //  http://www.youtube.com/watch?v=_T745HXduHY									//
 //																				//
 //	All of these calculus where both a combination of extracted information and	//
-//  my own work. No one has yet revised them, but I expect they me be close to	//
+//  my own work. No one has yet revised them, but I expect they may be close to	//
 //  reality.																	//
 //																				//
 //	VARIABLES:																	//
