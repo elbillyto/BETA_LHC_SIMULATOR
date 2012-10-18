@@ -1,7 +1,7 @@
 //==============================================================================//
 //  Filename: lhc_simulator.h													//
 //																				//
-//  Test - Application for job TE-EPC-CC-2012-154-LD @CERN.						//
+//  Test - Application for @CERN.						//
 //==============================================================================//
 //																				//
 //  Created by Carlos Ciller on Oct 13, 2012.									//
