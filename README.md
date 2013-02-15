@@ -9,7 +9,7 @@ Since I don't want to exactly monitor how the LHC works, I will improvise and ad
 
 Most of the information from within we developed this simulator may be located at the following links:	
 
-1) CERN FACTS AND FIGUES:	
+1) CERN FACTS AND FIGURES:	
 
 http://public.web.cern.ch/public/en/lhc/Facts-en.html
 
